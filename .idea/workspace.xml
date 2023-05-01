@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc0f340-d0cd-4b92-a89d-ed0e8acb1e65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/RegTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/RegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CornTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
     &quot;last_directory_selection&quot;: &quot;C:/Users/snowman/src/test/java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.RegTest">
+  <component name="RunManager" selected="Gradle.RegistrationTest">
     <configuration name="RegTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -185,9 +182,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RegistrationTest" />
         <item itemvalue="Gradle.RegTest" />
         <item itemvalue="Gradle.RegTest.shouldRegisterByAccountWithCalendarPopUpForOneWeekAndCheckPopUpCityTest" />
-        <item itemvalue="Gradle.RegistrationTest" />
         <item itemvalue="Gradle.RegistrationTest.InvalidCityTest2" />
         <item itemvalue="Gradle.RegTest.shouldCalendarMoveToTheNextMonthTest" />
       </list>
